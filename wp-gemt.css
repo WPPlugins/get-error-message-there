@@ -1,0 +1,19 @@
+#gemt_loading_indicator {
+  background: none;
+  padding: 0px;
+  margin: 0px 5px;
+  border: none;
+}
+
+#gemt_loading_indicator img {
+  background: none;
+  padding: 0px;
+  margin: 0px;
+  border: none;
+}
+
+#gemt_error_text p {
+  display: inline;
+  margin-left: 2em;
+  color: #990000;
+}
